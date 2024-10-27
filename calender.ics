@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:rahmatgunawan0193@gmail.com
+X-WR-TIMEZONE:Asia/Jakarta
+BEGIN:VTIMEZONE
+TZID:Asia/Jakarta
+X-LIC-LOCATION:Asia/Jakarta
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:GMT+7
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20200502T010000Z
+DTEND:20200502T030000Z
+DTSTAMP:20241027T132051Z
+UID:5t5mtfd2dqfof3e2m6gn08u26u@google.com
+X-GOOGLE-CONFERENCE:https://hangouts.google.com/hangouts/_/calendar/cmFobWF
+ 0Z3VuYXdhbjAxOTNAZ21haWwuY29t.5t5mtfd2dqfof3e2m6gn08u26u
+CREATED:20200501T090750Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Hangouts: https://hangouts.googl
+ e.com/hangouts/_/calendar/cmFobWF0Z3VuYXdhbjAxOTNAZ21haWwuY29t.5t5mtfd2dqfo
+ f3e2m6gn08u26u?hs=121\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200501T090750Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mata Kuliah Hardware
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200509T010000Z
+DTEND:20200509T030000Z
+DTSTAMP:20241027T132051Z
+UID:3vj1mn6lnm14m6adc29um2nl01@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/igz-tzrp-qjh
+CREATED:20200509T002435Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ig
+ z-tzrp-qjh\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200509T002435Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hardware Komputer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200903T120000Z
+DTEND:20200903T130000Z
+DTSTAMP:20241027T132051Z
+UID:5h1oufj9vshaccols9ogiijnql@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ndu-vmoa-jkz
+CREATED:20200903T061330Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/nd
+ u-vmoa-jkz\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200903T061330Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PKL
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200731T103000
+DTEND;TZID=Asia/Jakarta:20200731T120000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20210108T032959Z;BYDAY=FR
+DTSTAMP:20241027T132051Z
+UID:5154fas8qhsrnn86vkefjn91aq@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/fwr-yqod-ycm
+CREATED:20200725T062015Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/fw
+ r-yqod-ycm\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210108T031031Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Administrasi Sistem Jaringan Kelas XII TKJ 1\, 2\, 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200727T103000
+DTEND;TZID=Asia/Jakarta:20200727T120000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20210808T033000Z;BYDAY=MO
+DTSTAMP:20241027T132051Z
+UID:2hnup8sjr1tojd0hq1m8ck6ouj@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/pbn-pgnn-eag
+CREATED:20200725T061836Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/pb
+ n-pgnn-eag\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210809T050807Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meet Komputer da Jaringan Dasar Kelas X TKJ 1\, 2\, 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210815T060000Z
+DTEND:20210815T080000Z
+DTSTAMP:20241027T132051Z
+UID:5u7qt3gr7q4tavetei4kb8i3gv@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/gxp-nqgz-ujs
+CREATED:20210815T042646Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/gx
+ p-nqgz-ujs\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210815T042646Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kapita Selekta Sistem Informasi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210820T020000Z
+DTEND:20210820T030000Z
+DTSTAMP:20241027T132051Z
+UID:74gecq3egi52a6s8ttl1h97juh@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/aye-duvt-vkf
+CREATED:20210819T080635Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ay
+ e-duvt-vkf\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210819T080635Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Administrasi Sistem Jaringan
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T063000Z
+DTEND:20230929T073000Z
+DTSTAMP:20241027T132051Z
+UID:2cfdk2krr5hlr1ljod8s5r224v@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/hcc-djct-gri
+CREATED:20230927T023608Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/hc
+ c-djct-gri\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230927T023608Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meet Project Presensi Karyawan
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240615T090000Z
+DTEND:20240615T100000Z
+DTSTAMP:20241027T132051Z
+UID:05sd1c3vp9tn24j5qpiumk11aj@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tdv-xevb-dbw
+CREATED:20240615T052047Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/td
+ v-xevb-dbw\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240615T052047Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting Aplikasi Notaris
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230316
+DTEND;VALUE=DATE:20230318
+DTSTAMP:20241027T132051Z
+UID:7kukuqrfedlm2f9t4vajmtp642o9nkeegtko0f25mmuqtakqn74v1ea7dm1squtaoolg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rahmat
+  gunawan;X-NUM-GUESTS=0:mailto:rahmatgunawan0193@gmail.com
+CLASS:PRIVATE
+CREATED:20230314T010355Z
+DESCRIPTION:D'best Sofia Hotel Bandung\nJalan Teuku Angkasa No. 27 Dago\, B
+ andung\, Indonesia\n\nCheck-in: Mar 16\, 2023 2:00pm\nCheck-out: Mar 17\, 2
+ 023 1:00pm\n
+LAST-MODIFIED:20241011T163552Z
+LOCATION:Jalan Teuku Angkasa No. 27 Dago\, Bandung\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at D'best Sofia Hotel Bandung
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T020000Z
+DTEND:20241110T030000Z
+DTSTAMP:20241027T132051Z
+UID:1emulhvsc48ajel7mr09sqrpsr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rahmat
+  gunawan;X-NUM-GUESTS=0:mailto:rahmatgunawan0193@gmail.com
+CREATED:20241027T093657Z
+DESCRIPTION:<b>Bismillahirrahmanirrahim</b><br>Kami mengundang Bapak/Ibu/Sa
+ udara/i untuk hadir di acara pernikahan kami. InsyaAllah akan diadakan di<b
+ r><br>Akad Nikah : Rumah Mempelai Wanita\, 10 November 2024 - 09:00.<br>Wal
+ imatul 'Ursy : Rumah Mempelai Wanita\, 10 November 2024 - 10:00.<br><br><br
+ >Regards\,<br><u>Latifah dan Arief</u>
+LAST-MODIFIED:20241027T131830Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Akad Nikah Latifah dan Arief
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
